@@ -4,5 +4,16 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1756422756",
+      "groups": {
+        "": [
+          "https://drive.usercontent.google.com/download?id=1VEC4UzNx2UpjkWlCE6xAuPB7Ud1k3uHi"
+        ]
+      }
+    }
+  }
 }
